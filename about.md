@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "关于我自己 " 
+title: "关于博主"
+description: "nekohan " 
 header-img: "img/04.png"
 ---
 
