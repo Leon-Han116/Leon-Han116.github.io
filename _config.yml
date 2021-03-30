@@ -1,6 +1,6 @@
 # Site settings
 title: nekohan的学习小站 # 你的博客名字，可以定义修订
-header-img: "img/05.jpg"
+header-img: "img/05.png"
 tagline: "cn"  
 description: "分享学习和热爱"  # 一句话描述你的博客
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "nekohan" # 你的名字
-      header-img: "img/04.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/04.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
